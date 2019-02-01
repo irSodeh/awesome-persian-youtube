@@ -29,7 +29,7 @@
 [کانال سیاوش محمودیان](https://www.youtube.com/channel/UCks1-Od_hDk1mvpd8Ku_VQA) | کانالی شامل ویدئوهای آموزش طراحی وب با بیش از 1K مشترک
 [کانال هامون محمدیان پور](https://www.youtube.com/channel/UCDVwCl1aKmLQQT1DS8IGDUw) | کانالی با محتوای فارسی در حوزه دیتابیس
 [کانال پیام صادری](https://www.youtube.com/channel/UCJKqjAlXrjlWPxY99mkNO0A) | کانال جدیدی که محتوای آموزشی کوتاه در حوزه‌های مرتبط با نرم‌افزار دارد
-
+[کانال آیدین اسلامی](https://www.youtube.com/channel/UCng61h_6CH2FHu9VSsSP1Uw) | ویدئوهایی در حوزه پردازش تصویر در پایتون دارد
 
 
 </div>
