@@ -32,5 +32,5 @@
 [کانال آیدین اسلامی](https://www.youtube.com/channel/UCng61h_6CH2FHu9VSsSP1Uw) | ویدئوهایی در حوزه پردازش تصویر در پایتون دارد
 [کانال سهیل علیزاده](https://www.youtube.com/channel/UCLHidP5SfcgFjN1BXpwl3fA) | ویدئوهایی در حوزه توسعه نرم‌افزار با دات‌نت
 [کانال سحر](https://www.youtube.com/channel/UC7vYWtZShDLheammtHJpOLw) | ویدئوهای آموزشی مرتبط با توسعه اندروید
-
+[کانال فرود غفوری](https://www.youtube.com/channel/UCdtGLDEOsnWlW1IsQFbCAsA) | لایو با موضوع زبان برنامه‌نویسی Go
 </div>
