@@ -20,7 +20,7 @@
 [کانال احمد طحانی](https://www.youtube.com/channel/UC0zTl0iFLUxrJ_hafwdnLsw) | کانالی با محتوای فارسی آموزشی درباره برنامه‌نویسی frontend
 [کانال توحید ارسطو](https://www.youtube.com/channel/UCs50hkpCfmHGvKxTY_gP4uA/featured) | کانالی با محتوای آموزشی فارسی درباره JavaScript
 [کانال عباس یزدان‌پناه](https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA) | کانالی شامل آموزش git و ویدئوهای کوتاه درباره اصول لازم برنامه‌نویسی
-[کانال سیداحمد رضوی](https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ) |  محتوای فارسی درباره هوش مصنوعی با بیش از 1K مشترک
+[کانال سید ناصر رضوی](https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ) |  محتوای فارسی درباره هوش مصنوعی با بیش از 1K مشترک
 [کانال علی مولایی](https://www.youtube.com/channel/UCSecvuDZyO7cQh-C5AXUMQg) | شامل تعدادی محتوای آموزشی در حوزه لینوکس
 [کانال امیراحمد ادیبی](https://www.youtube.com/channel/UCbUzynAcuG-JZYE7oI-B2NA) | کانالی با محتوای آموزش زبان برنامه‌نویسی Java به همراه آموزش‌های عمومی مربوط به لایو استریم
 [کانال SkillVid](https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A) | کانال جدیدی که محتوای آموزشی در حوزه برنامه‌نویسی فرانت‌اند هم دارد و مرتب بروز می‌شود
