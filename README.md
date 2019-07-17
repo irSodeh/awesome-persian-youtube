@@ -33,4 +33,5 @@
 [کانال سهیل علیزاده](https://www.youtube.com/channel/UCLHidP5SfcgFjN1BXpwl3fA) | ویدئوهایی در حوزه توسعه نرم‌افزار با دات‌نت
 [کانال سحر](https://www.youtube.com/channel/UC7vYWtZShDLheammtHJpOLw) | ویدئوهای آموزشی مرتبط با توسعه اندروید
 [کانال فرود غفوری](https://www.youtube.com/channel/UCdtGLDEOsnWlW1IsQFbCAsA) | لایو با موضوع زبان برنامه‌نویسی Go
+[کانال رامین زارع](https://www.youtube.com/channel/UCwc1RZzEeELwPel5HFlKpzw/featured) | ویدئوهای در حوزه جاوا و پادکست کامپایل
 </div>
