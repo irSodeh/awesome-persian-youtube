@@ -35,4 +35,5 @@
 [کانال فرود غفوری](https://www.youtube.com/channel/UCdtGLDEOsnWlW1IsQFbCAsA) | لایو با موضوع زبان برنامه‌نویسی Go
 [کانال رامین زارع](https://www.youtube.com/channel/UCwc1RZzEeELwPel5HFlKpzw/featured) | ویدئوهای در حوزه جاوا و پادکست کامپایل
 [کانال پارس کلیک](https://www.youtube.com/user/PersianComputers) | آموزش‌های متنوع مرتبط به توسعه نرم‌افزار
+[کانال امیرحسین عبدالخالق](https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ) | آموزش‌های مهندسی نرم‌افزار
 </div>
