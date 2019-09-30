@@ -37,4 +37,5 @@
 [کانال پارس کلیک](https://www.youtube.com/user/PersianComputers) | آموزش‌های متنوع مرتبط به توسعه نرم‌افزار
 [کانال امیرحسین عبدالخالق](https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ) | آموزش‌های مهندسی نرم‌افزار
 [کانال فرید احمدیان](https://www.youtube.com/channel/UCV-q5eC0hjN10KiCYRnVjnw) | ویدئوهایی درباره vim
+[کانال میثم سیناپس](https://www.youtube.com/channel/UCdGv2Y_kH7CJJSotJEE4yTA) | آموزش‌های پایتون
 </div>
