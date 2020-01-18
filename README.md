@@ -38,4 +38,5 @@
 [کانال امیرحسین عبدالخالق](https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ) | آموزش‌های مهندسی نرم‌افزار
 [کانال فرید احمدیان](https://www.youtube.com/channel/UCV-q5eC0hjN10KiCYRnVjnw) | ویدئوهایی درباره vim
 [کانال میثم سیناپس](https://www.youtube.com/channel/UCdGv2Y_kH7CJJSotJEE4yTA) | آموزش‌های پایتون
+[کانال سمیر رحمانی](https://www.youtube.com/channel/UC6KguAaJYvYQXckq3f3jx0w) | ویدئوهایی درباره نرم‌افزارهای آزاد
 </div>
