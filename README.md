@@ -41,5 +41,6 @@
 [کانال سمیر رحمانی](https://www.youtube.com/channel/UC6KguAaJYvYQXckq3f3jx0w) | ویدئوهایی درباره نرم‌افزارهای آزاد
 [کانال Let's make](https://www.youtube.com/channel/UCwkksy1YmPCEMUsEyzHn_Vg) | ویدئوهای برنامه‌نویسی به همراه پیاده‌سازی پروژه
 [کانال مسعود صدری](https://www.youtube.com/channel/UCnttDmeNZW53QgrsEN977yw) | آموزش‌های مرتبط با توسعه نرم‌افزار و frontend
+[کانال سروش سرآبادانی](https://www.youtube.com/user/psycho1366) | ویدئوهایی در حوزه برنامه‌نویسی با جاوا
 
 </div>
