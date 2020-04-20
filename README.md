@@ -42,5 +42,6 @@
 [کانال Let's make](https://www.youtube.com/channel/UCwkksy1YmPCEMUsEyzHn_Vg) | ویدئوهای برنامه‌نویسی به همراه پیاده‌سازی پروژه
 [کانال مسعود صدری](https://www.youtube.com/channel/UCnttDmeNZW53QgrsEN977yw) | آموزش‌های مرتبط با توسعه نرم‌افزار و frontend
 [کانال سروش سرآبادانی](https://www.youtube.com/user/psycho1366) | ویدئوهایی در حوزه برنامه‌نویسی با جاوا
+[کانال Silicium](https://www.youtube.com/channel/UCKSIjrrKLYi9N7cqREeENlw) | ویدئوهای آموزشی در حوزه Vue و Django
 
 </div>
