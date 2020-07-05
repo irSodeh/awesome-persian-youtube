@@ -45,4 +45,5 @@
 [کانال Silicium](https://www.youtube.com/channel/UCKSIjrrKLYi9N7cqREeENlw) | ویدئوهای آموزشی در حوزه Vue و Django
 [کانال باشگاه کدزنی](https://www.youtube.com/channel/UCbDzaRXf6kr9VFaTDA_twRw) | ویدئوهایی در حوزه TDD 
 [کانال گیک برگر](https://www.youtube.com/channel/UCAzoPZezvbQ8J2SqW1NByPg) | ویدئوهای آموزشی در حوزه نرم‌افزار
+[کانال amygdala](https://www.youtube.com/channel/UCIPJPlinJHThHBlXkcnN5mg) | لایوهایی در حوزه برنامه‌نویسی
 </div>
