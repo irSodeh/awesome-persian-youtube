@@ -46,4 +46,5 @@
 [کانال باشگاه کدزنی](https://www.youtube.com/channel/UCbDzaRXf6kr9VFaTDA_twRw) | ویدئوهایی در حوزه TDD 
 [کانال گیک برگر](https://www.youtube.com/channel/UCAzoPZezvbQ8J2SqW1NByPg) | ویدئوهای آموزشی در حوزه نرم‌افزار
 [کانال amygdala](https://www.youtube.com/channel/UCIPJPlinJHThHBlXkcnN5mg) | لایوهایی در حوزه برنامه‌نویسی
+[کانال بردیا دوستی](https://www.youtube.com/channel/UCRt-ael3zIGvXSk0gmxqikg) | ویدئوهایی برای آماده‌سازی مصاحبه برنامه‌نویسی
 </div>
