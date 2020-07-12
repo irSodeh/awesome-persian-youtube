@@ -47,4 +47,5 @@
 [کانال گیک برگر](https://www.youtube.com/channel/UCAzoPZezvbQ8J2SqW1NByPg) | ویدئوهای آموزشی در حوزه نرم‌افزار
 [کانال amygdala](https://www.youtube.com/channel/UCIPJPlinJHThHBlXkcnN5mg) | لایوهایی در حوزه برنامه‌نویسی
 [کانال بردیا دوستی](https://www.youtube.com/channel/UCRt-ael3zIGvXSk0gmxqikg) | ویدئوهایی برای آماده‌سازی مصاحبه برنامه‌نویسی
+[کانال عرفان تحریری](https://www.youtube.com/user/erfantahriri) | ویدئوهایی درباره مهاجرت برنامه‌نویسان و رزومه‌نویسی
 </div>
