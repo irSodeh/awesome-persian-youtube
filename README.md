@@ -48,4 +48,5 @@
 [کانال amygdala](https://www.youtube.com/channel/UCIPJPlinJHThHBlXkcnN5mg) | لایوهایی در حوزه برنامه‌نویسی
 [کانال بردیا دوستی](https://www.youtube.com/channel/UCRt-ael3zIGvXSk0gmxqikg) | ویدئوهایی برای آماده‌سازی مصاحبه برنامه‌نویسی
 [کانال عرفان تحریری](https://www.youtube.com/user/erfantahriri) | ویدئوهایی درباره مهاجرت برنامه‌نویسان و رزومه‌نویسی
+[کانال آرش حاتمی](https://www.youtube.com/c/ArashHatami7) | ویدئوهایی در حوزه DevOps
 </div>
