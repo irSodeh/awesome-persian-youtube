@@ -49,4 +49,7 @@
 [کانال بردیا دوستی](https://www.youtube.com/channel/UCRt-ael3zIGvXSk0gmxqikg) | ویدئوهایی برای آماده‌سازی مصاحبه برنامه‌نویسی
 [کانال عرفان تحریری](https://www.youtube.com/user/erfantahriri) | ویدئوهایی درباره مهاجرت برنامه‌نویسان و رزومه‌نویسی
 [کانال آرش حاتمی](https://www.youtube.com/c/ArashHatami7) | ویدئوهایی در حوزه DevOps
+[کانال Security Talks](https://www.youtube.com/channel/UCRwLeCGVlPyHfzku-6rgA_w) | ویدئوهایی در حوزه امنیت
+[کانال اشکان رحمانی](https://www.youtube.com/channel/UCeoFeWoQNHozbRmwuPCLcQg) | کمک به کسانی که می‌خواهند برنامه‌نویسی یاد بگیرند
+[کانال حمید فرجی](https://www.youtube.com/channel/UCxqZz3DOWvFSXPOawSIYM6Q) | همه چیز در مورد توسعه نرم‌افزار
 </div>
